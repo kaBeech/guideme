@@ -360,6 +360,7 @@ Guideme.Repo.insert!(%Guideme.Steps.Step{
 
 Guideme.Repo.insert!(%Guideme.Steps.Step{
   full_text: "Set up the board",
+  external_link: "https://en.wikipedia.org/wiki/Rules_of_chess#Initial_setup",
   guide_id: 5,
   number: 2
 })
